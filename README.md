@@ -1,43 +1,20 @@
 # GenLayer Developer Cheat Sheet
 
+🔗 Live App: https://gen-layer-developer-cheat-sheet.vercel.app/
+
+---
+
 A clean, one-page resource hub for developers building on GenLayer.
 
-🔗 Live: https://gen-layer-developer-cheat-sheet.vercel.app/
+## What this includes
 
-## What this is
-
-This cheat sheet brings together all essential GenLayer resources in one place — so builders can start faster without searching across multiple pages.
-
-## Included resources
-
-- Official documentation
-- GenLayer Studio
-- Networks & RPCs
-- Testnet faucets
-- Deployment tools (Shipyard)
+- Docs
+- Studio
+- Faucets
+- Deployment tools
 - Explorer
-- Builder portal
-- GitHub repos
 - Community links
 
-## Why this matters
+## Full Guide
 
-GenLayer introduces new concepts like:
-- Optimistic Democracy
-- Equivalence Principle
-- AI-powered validators
-
-For new builders, finding the right starting points can be confusing.
-
-This page removes that friction.
-
-## How to use
-
-1. Bookmark the page  
-2. Open it while building  
-3. Jump directly to tools you need  
-
-## Related
-
-- Full tutorial:  
-  https
+📖 https://medium.com/@kushalbuz/from-zero-to-genlayer-a-builders-guide-to-trustless-decision-making-f30ff565f384
